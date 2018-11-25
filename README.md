@@ -1,6 +1,8 @@
 # encoderless_motor_speed_driver
 
 Current sense amplifier:
+http://www.ti.com/tool/INA381EVM
+
 https://eu.mouser.com/ProductDetail/Texas-Instruments/INA381A2IDSGR?qs=sGAEpiMZZMvEn2pkGav3bMtYv3jXcK%2fsQAFbDzm4iklEVnUVdeI9%2fg%3d%3d
 
 Motor driver:
